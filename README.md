@@ -1,2 +1,5 @@
 # hello-world
-default setup
+
+Hi all
+
+This is all new to me so yeah enjoy that 
